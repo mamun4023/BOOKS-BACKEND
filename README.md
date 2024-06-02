@@ -7,7 +7,7 @@ A testing project with some APIs endpoints.
 ## Features
 
 - Authentication and Authorization
-- CRUD operation of Book
+- Tracking user Search history
 - Server Logs Tracking
 
 
@@ -28,6 +28,3 @@ Install All dependecy
 ```bash
   npm run dev
 ```
-
-## API Doumentation
- https://documenter.getpostman.com/view/28549113/2sA3QqgCvr
